@@ -6,9 +6,9 @@ sum1, sum2, sum3, sum4 = 0, 0, 0, 0				    # 누적 변수 초기화
 # for 단일변수 in 리스트
 #     실행문
 
-for score in kor:
-    print(score, end=' ')
-    sum1 = score + sum1
+for i in kor:
+    print(i, end=' ')
+    sum1 = i + sum1
 print('\n국어 합계 :', sum1)
 
 for score in eng:
