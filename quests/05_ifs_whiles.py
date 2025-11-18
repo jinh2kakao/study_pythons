@@ -17,7 +17,7 @@
 # ✅ 문제 2 — 들여쓰기(Indentation) 오류 찾기
 # 다음 코드는 while 문에서 들여쓰기 오류가 난다.
 #  오류를 찾고 수정하시오.
- 
+
 # first = 5
 
 # while first > 0:
