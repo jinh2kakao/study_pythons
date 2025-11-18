@@ -16,4 +16,9 @@ for score in eng:
     sum1 = score + sum1
 print('\n영어 합계 :', sum1)
 
-range(5)
+# range(5) -> [0,1,2,3,4]
+
+for index in range(5):								# 0~4
+    # kor[index] + eng[index]
+    sum3 = kor[index] + eng[index] + sum3
+    print(f'국어와 영어의 누적값 : {sum3}')
