@@ -1,4 +1,4 @@
-from classes_fourcals import FourCal
+from codes.classes_fourcals import FourCal
 
 if __name__ == "__main__":
     fourcal = FourCal()
